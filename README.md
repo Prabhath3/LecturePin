@@ -1,4 +1,4 @@
-#📌 LecturePin
+📌 LecturePin
 Never Miss a Class Again
 LecturePin is an AI-powered university lecture schedule alert web app built for students who struggle with poor network coverage. When a lecture schedule changes, every registered student gets notified instantly — even with low signal.
 
